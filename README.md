@@ -13,11 +13,11 @@ This is the group project for DSAN5300. The project is about the analysis of the
 ## File Structure （Future Work）
 ```bash
 ├── data
-|   ├── download_data.py
 ├── notebooks
 │   ├── data_cleaning.ipynb
 │   ├── data_exploration.ipynb
 ├── codes
+|   ├── download_data.py
 │   ├── data_cleaning.py
 │   ├── data_exploration.py
 ├── poster

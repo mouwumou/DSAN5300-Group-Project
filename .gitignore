@@ -1,4 +1,6 @@
 .ipynb_checkpoints
 __pycache__
+data/*
+!data/.gitkeep
 data/Electric_Vehicle_Population_Data.csv
 *.csv
