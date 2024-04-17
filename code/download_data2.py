@@ -17,7 +17,7 @@ if not os.path.exists(data_raw_folder):
     os.makedirs(data_raw_folder)
 
 # download data
-data_file_path = os.path.join(data_raw_folder, 'Electric_Vehicle_Population_Data.csv')
+data_file_path = os.path.join(data_raw_folder, 'Vehicle_Registration_Transactions_Data.csv')
 
 url = r'https://data.wa.gov/api/views/brw6-jymh/rows.csv?accessType=DOWNLOAD'
 r = requests.get(url)
