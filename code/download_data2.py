@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # download data from the State of Washington "Electric Vehicle Population Data"
-# https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
+# https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/brw6-jymh
 # and save it to data/raw/ folder
 
 import os
